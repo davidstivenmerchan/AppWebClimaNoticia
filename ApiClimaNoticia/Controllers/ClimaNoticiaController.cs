@@ -7,5 +7,6 @@ namespace ApiClimaNoticia.Controllers
     [ApiController]
     public class ClimaNoticiaController : ControllerBase
     {
+
     }
 }
