@@ -8,11 +8,11 @@ const AppRoutes = [
     element: <Home />
   },
   {
-    path: '/ciudad',
+    path: '/historial',
     element: <Historial />
   },
   {
-    path: '/historial',
+    path: '/ciudad',
     element: <Ciudad />
   }
 ];
