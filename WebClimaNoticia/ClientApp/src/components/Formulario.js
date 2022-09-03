@@ -22,7 +22,7 @@ const Formulario = () => {
         <div className="container-fluid mt-5 w-100">
             <div className="row w-100">
                 <div className="col-4">
-                    <h3 className="text-center">formulario</h3>
+                    <h3 className="text-center">Formulario</h3>
                     <form className="card  p-2" onSubmit={guardar} autoComplete="off">
                         <label
                             for="inputCiudad"
