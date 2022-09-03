@@ -7,4 +7,4 @@ En esta App web podras:
 
 Algunos Datos de la Aplicacion:
 -Esta aplicacion fue creada con las siguientes tecnologias: c#, react, js, css, html, bootstrap
--Apis Utilizadas:https://openweathermap.org/api"(Api-Clima https://newscatcherapi.com(Api-Noticia)
+-Apis Utilizadas:https://openweathermap.org/api" (Api-Clima) https://newscatcherapi.com (Api-Noticia)
