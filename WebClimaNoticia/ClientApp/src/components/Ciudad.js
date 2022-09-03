@@ -1,5 +1,12 @@
 ﻿const Ciudad = () => {
 
+
+
+    return (
+        
+        <div>soy la ciudad</div>
+        
+        )
 }
 
 
